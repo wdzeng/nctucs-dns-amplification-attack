@@ -1,7 +1,7 @@
 # DNS Amplifaction Attack
-This is my homework in NCTU. Input the victim's ip, domain queried, the DNS server's ip and tpye of DNS, seeing the effects via wireshark.
+This is my homework in NCTU. Input the victim's ip, domain queried, the DNS server's ip and type of DNS, seeing the effects via wireshark.
 
-In this program UDP DNS querying message is sent via UDP (port 53); hence raw sockets are applied. The opt and EDNS0 is used to make size of reply greater.
+In this program DNS querying message is sent via UDP (port 53); hence raw sockets are applied. The opt and EDNS0 is used to make size of reply greater.
 
 ## DNS Type
 You can see the whole list on [wiki](https://en.wikipedia.org/wiki/List_of_DNS_record_types).
