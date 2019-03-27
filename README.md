@@ -19,6 +19,7 @@ You can see the whole list on [wiki](https://en.wikipedia.org/wiki/List_of_DNS_r
 * [DNS Brief Introduction (Chinese)](http://www.pcnet.idv.tw/pcnet/network/network_ip_dns.htm)
 * [Deep Inside a DNS Amplification DDoS Attack](https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack/)
 * [Better than Best Practices for DNS Amplification Attacks](https://www.nanog.org/sites/default/files/mon_general_weber_defeat_23.pdf)
+* [DENSEC](http://www.myhome.net.tw/2011_03/p03.htm)
 
 ## Reference (IP and UDP)
 * [IP Packet Header](http://www.cs.miami.edu/home/burt/learning/Csc524.092/notes/ip_example.html)
