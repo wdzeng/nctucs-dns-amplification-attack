@@ -1,4 +1,4 @@
 all:
 	mkdir -p bin
-	g++ -o ./bin/main ./main.cpp
+	g++ -o ./bin/main ./src/main.cpp
 	sudo ./bin/main
